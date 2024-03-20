@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1027632989777",
+    "project_id": "medicflutter",
+    "storage_bucket": "medicflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027632989777:android:1cce015d48c6dadf3fda70",
+        "android_client_info": {
+          "package_name": "com.example.medic_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027632989777-0taia8223p1re46ds7b7mjr5rfiu5bnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRtm4pwF7gASoZcqKGjLx-1LxDNnyfIkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027632989777-0taia8223p1re46ds7b7mjr5rfiu5bnt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1027632989777-57bnieqa3pjtiujtdsedh24k4ptg0sbb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medicFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
